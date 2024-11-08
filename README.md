@@ -1,4 +1,5 @@
 Safe Driving App
+
 The Safe Driving App is designed to enhance road safety by continuously monitoring drivers for signs of drowsiness, emotional states, and phone usage. This app provides real-time feedback and alerts to help drivers stay focused, safe, and alert on the road. The project uses a range of machine learning and computer vision techniques, providing an integrated solution for safer driving.
 
 Features
